@@ -23,6 +23,6 @@ body{
     font-weight: 100;
 }
 canvas{
-    border: 3px solid rebeccapurple;
+    border: 5px solid rebeccapurple;
     box-shadow: -5px -5px 10px 2px black;
 }
